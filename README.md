@@ -4,27 +4,28 @@
 
 ![](https://i.imgur.com/T80osjV.png)
 
+
+### 使用技術：
 ```
-使用技術：
 MySQL
 PHP
 Bootstrap
 ```
 
 ### <font color=#FF5809>會員管理</font>
-![](https://drive.google.com/file/d/1cnLbKalOf3ACM4Q07VoY7u767vd9ueuW/view?usp=share_link)
+![01會員管理頁](https://user-images.githubusercontent.com/117623881/227465984-a123bc54-4dad-43f6-84d9-ef3aa1bb5709.png)
 
 ### <font color=#FF5809>會員詳細頁</font>
-![](https://drive.google.com/file/d/1Zsdbh5_1YyAn2AM5UTJ5DJfrG6bFrSRy/view?usp=share_link)
+![02會員詳細頁](https://user-images.githubusercontent.com/117623881/227466250-47310acf-cec9-42fe-8faa-f7e5f9e3155c.png)
 
 ### <font color=#FF5809>會員編輯</font>
-![](https://drive.google.com/file/d/1lfCOwTl6hl1iZB6fqrs_p4XwMKUgcGsy/view?usp=share_link)
+![03會員資料編輯](https://user-images.githubusercontent.com/117623881/227466279-1bab121a-ed49-419c-a4ee-4baa3e6400bc.png)
 
 ### <font color=#FF5809>會員新增</font>
-![](https://drive.google.com/file/d/1iI6aYNoSqW05j_v1mw2Nh1nD7U_FIORJ/view?usp=share_link)
+![04會員新增頁](https://user-images.githubusercontent.com/117623881/227466296-4efb7672-c8f8-4b0b-b26f-dac6c2309982.png)
 
 ### <font color=#FF5809>會員等級</font>
-![](https://drive.google.com/file/d/1Iz_sl5N2MV7Q7PwWLtwRa2cil0UZmZIC/view?usp=share_link)
+![05會員等級頁CRUD](https://user-images.githubusercontent.com/117623881/227466319-7b162c60-9ee3-4353-aa0b-eaedb61cfa61.png)
 
 ### <font color=#FF5809>管理員設定</font>
-![](https://drive.google.com/file/d/1lvNtr20cn8fO__YzRemprQX3ucVRdLeD/view?usp=share_link)
+![06管理員編輯](https://user-images.githubusercontent.com/117623881/227466346-45ff6dc3-37dd-4f57-8332-44e452dbb73e.png)
