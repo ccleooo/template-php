@@ -1,0 +1,89 @@
+.order{
+    font-size: 40px;
+    padding: 10px 0;
+}
+.date{
+    font-size: 20px;
+}
+
+.btn_search{
+    padding: 0 1rem;
+}
+
+
+
+
+.order-number{
+    font-size: 30px;
+    color: #4e73df;
+    font-weight: bold;
+}
+
+.table-right table th{
+    padding: 6px;
+}
+.table_top thead{
+    background: #eee;
+}
+
+.order_text{
+    color: #5a5c69;
+}
+.background{
+    display: flex;
+    justify-content: space-between;
+    background: #eee;
+    padding: 5px 20px 20px;
+} 
+.background p{
+    padding: 15px 0 0;
+}
+.background_footer{
+    background: #eee;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #aaa;
+    padding: 15px 20px;
+}
+.table-right .table_total th{
+    padding-top: 20px;
+}
+
+
+.order_edit{
+    font-size: 25px;
+    padding: 10px 20px 5px;
+}
+
+.form-select {
+    max-width: 100%;
+    text-align: center;
+}
+
+.button_class{
+    padding-top: 10px;
+}
+
+.button_class .save{
+    background: var(--bs-btn-hover-bg);
+    border: var(--bs-btn-hover-bg);
+    padding: 15px 20px;
+    margin: auto 5px;
+}
+
+.button_class .cancle{
+    background: #0d6efd;
+    border: #0d6efd;
+    padding: 15px 20px;
+    margin: auto 5px;
+}
+
+.button_class .delete{
+    background: #dc3545;
+    border: #dc3545;
+    padding: 15px 20px;
+    margin: auto 5px;
+}
+
+
+

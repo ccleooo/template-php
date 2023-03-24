@@ -1,0 +1,64 @@
+/* user 會員管理 */
+.user .btn {
+    font-size: 1rem;
+    padding: 0.35rem 1.25rem;
+}
+
+.user .margin {
+    margin-right: 1.25rem;
+}
+
+.user_image {
+    max-width: 30%;
+    margin: 0 auto;
+}
+
+
+/* eye */
+.table .password_style {
+    position: relative;
+}
+
+.checkeye {
+    position: absolute;
+    top: 50%;
+    right: 1.5rem;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+/* img */
+.img_new {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.img_old {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.img_border {
+    border-color: #bac8f3;
+    box-shadow: 0 0 0 0.5rem rgba(78, 114, 223, 0.158);
+}
+
+/* detail */
+.img_width {
+    max-width: 63%;
+    margin: 0 auto;
+}
+
+.user_bg_gray {
+    padding: 1rem 1.5rem;
+    background: #eee;
+}
+
+.table_user td {
+    padding: 0.95rem 0.65rem;
+}
+
+
+.user_info_table{
+    margin-top: 86px;
+}

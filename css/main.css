@@ -1,0 +1,172 @@
+
+/* 字體設定 */
+body {
+    font-family: "Noto Sans TC", sans-serif, Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+
+/* sidebar */
+.sidebar_bg {
+    background-color: #000;
+    background: linear-gradient(to bottom, #626262 1%,#545454 7%,#000000 34%);
+    background-size: cover;
+}
+
+p,h3 {
+    margin: 0;
+}
+
+.sidebar hr.sidebar-divider {
+    margin: 0 1rem;
+}
+
+/* nav */
+.topbar .nav-item .nav-link .img-profile {
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+#wrapper #content-wrapper {
+    background: #d1d1d1;
+}
+
+.card-header {
+    background: #858585;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+h1 {
+    font-size: 1.65rem;
+    color: #696969;
+    font-weight: bold;
+}
+
+/* product用 */
+h3 {
+    font-size: 1.15rem;
+    color: #727272;
+    font-weight: 500;
+}
+
+.btn {
+    padding: 0.35rem 1.1rem;
+    font-size: 0.9375rem;
+}
+
+/* back btn */
+.text_btn {
+    display: flex;
+    align-items: center;
+    color: #696969;
+    font-size: 1rem;
+}
+
+.text_btn:active,
+.text_btn:focus {
+    border: none;
+    box-shadow: none;
+}
+
+/* for search */
+.btn_search {
+    padding: 0 1rem;
+}
+
+/* content */
+.content {
+    background: #fff;
+    padding: 1.5rem 1.65rem;
+    border-radius: 3px;
+}
+
+.detail_content {
+    background: #fff;
+    padding: 2.5rem 2.65rem;
+    border-radius: 3px;
+}
+
+.bg_gray {
+    background: #eee;
+}
+
+/* select */
+.form-select {
+    max-width: 30%;
+}
+
+#wrapper .select_large {
+    max-width: 100%;
+}
+
+
+footer.sticky-footer {
+    padding: 1.5rem 0;
+}
+
+/* table設定 */
+.table th {
+    background: #f7f7f7;
+}
+
+.table .bg_gray {
+    background: #f7f7f7;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+/* table */
+.table {
+    text-align: center;
+}
+
+/* 寬度設定 */
+.w-10 {
+    width: 10%;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+/* 高度設定 */
+.h-240 {
+    height: 240px;
+}
+
+.max_height {
+    max-height: 4.5rem;
+}
+
+/* btn設定 */
+.template_wrapper .btn-info:hover {
+    color: #fff;
+}
+
+/* 單行 */
+p.single_ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 多行 */
+p.multiline_ellipsis { 
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}

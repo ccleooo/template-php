@@ -1,0 +1,20 @@
+<?php
+$servername = "localhost";
+$username = "";
+$password = "";
+$dbname = "";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// 檢查連線
+if ($conn->connect_error) {
+      die("連線失敗: " . $conn->connect_error);
+}
+
+function debug(...$vars){
+      var_dump($vars);
+      exit;
+}
+
+// 呼叫
+// debug($information);

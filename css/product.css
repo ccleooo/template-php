@@ -1,0 +1,151 @@
+.product_add .content {
+    padding: 2rem 2.65rem 1.25rem;
+}
+
+.product .card-header {
+    padding: 0;
+}
+
+.product .col-md-3 {
+    padding: 0 0.5rem;
+}
+
+.product .padding {
+    padding: 2em 3rem;
+}
+
+.font_width {
+    width: 8.5rem;
+}
+
+.product_add .table th {
+    background: #fff;
+}
+
+.table thead th {
+    vertical-align: middle;
+}
+
+.table tbody td.top {
+    vertical-align: top;
+}
+
+.product_add .form-select {
+    max-width: 100%;
+}
+
+.product_add .table p {
+    margin-bottom: 0.35rem;
+}
+
+.gallery img {
+    max-height: 7.25rem;
+    overflow: hidden;
+    margin: 0 0.35rem;
+}
+
+.product_add .w-20 {
+    background: #f7f7f7;
+}
+
+.btn p {
+    font-weight: bold;
+}
+
+/* select */
+.product_add .select2-selection {
+    display: flex;
+    justify-content: start;
+}
+
+.product_add .select2-selection__rendered {
+    margin-bottom: 0;
+}
+
+#wrapper .product_add .select2-selection__choice__display {
+    padding-left: 20px;
+    padding-right: 15px;
+    background: #ebebeb;
+}
+
+.product_add .select2-container--default .select2-selection--multiple {
+    border: 1px solid #d1d3e2;
+}
+
+.product_add .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    border: 1px solid #d1d3e2;
+}
+
+.product_add .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    background-color: #afafaf;
+    color: #fff;
+}
+
+.product_add .select2-container--default.select2-container--focus .select2-selection--multiple {
+    border-color: #bac8f3;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(78 115 223 / 25%);
+}
+
+/* product_detail */
+.product_detail .gallery img {
+    max-height: 12.5rem;
+    margin-bottom: 1.5rem;
+}
+
+#wrapper span.tiny_text {
+    font-size: 0.9rem;
+    color: #6e6e6e;
+}
+
+.product_img_wrap {
+    background-color: #f7f7f7;
+    padding: 1.65rem 1.5rem;
+}
+
+/* product_edit */
+.image_box {
+    position: relative;
+}
+
+.image_box {
+    background: #f1f8ff;
+    padding: 1.05rem;
+}
+
+.show_image a {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    z-index: 1;
+}
+
+.show_sub_img {
+    position: relative;
+}
+
+.img_border {
+    border: 15px solid rgb(255 255 255 / 47%);
+}
+
+
+.img_float {
+    position: absolute;
+    top: 29rem;
+    right: 0;
+    z-index: 1;
+}
+
+.show_image .icon_close {
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 1.5rem;
+}
+
+.show_image p {
+    font-size: 0.9rem;
+    color: #7f858b;
+}
+
+.product_edit .gallery img {
+    max-height: 10rem;
+}

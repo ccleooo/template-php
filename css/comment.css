@@ -1,0 +1,80 @@
+/* detail */
+.comment {
+    margin-top: 1rem;
+}
+
+.user_info .comment p {
+    font-size: 1rem;
+    color: #6d6d6d;
+}
+
+.user_wrap {
+    padding: 1.35rem 1.25rem;
+}
+
+.img_width {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.user_info p {
+    color: #000;
+    font-size: 1.2rem;
+}
+
+.user_info .time p.time_text {
+    text-align: end;
+    color: #969696;
+    font-size: 0.85rem;
+}
+
+.user_info span {
+    color: #6d6d6d;
+    font-size: 0.85rem;
+}
+
+.user_info {
+    color: #969696;
+    font-size: 0.9rem;
+}
+
+.product_wrap {
+    padding: 1rem 1.25rem;
+    background: #eff0f9;
+}
+
+.img_size {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.product_info p {
+    color: #39456f;
+    font-size: 0.95rem;
+}
+
+p.font_gray {
+    color: #969696;
+    font-size: 0.85rem;
+}
+
+.user_info span.primary_name {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+    background: #4e73df;
+    border-radius: 45px;
+    color: #fff;
+}
+
+.topage {
+    text-align: center;
+}
+
+.topage .icon {
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.185);
+}
+
+.topage p {
+    font-size: 0.7rem;
+}
