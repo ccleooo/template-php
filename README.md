@@ -1,6 +1,7 @@
 # SHOW RESULTS PHP
 
 本次專題負責部份：會員管理CRUD、會員等級CRUD、管理員設定
+
 ![負責部分](https://user-images.githubusercontent.com/117623881/227467985-f4725be2-d9df-4aad-bf7f-393bbcac1dbb.png)
 
 ### 使用技術：
